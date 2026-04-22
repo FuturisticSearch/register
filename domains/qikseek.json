@@ -1,0 +1,10 @@
+{
+  "$schema": "https://githubusercontent.com",
+  "owner": {
+    "username": "futuristicsearch",
+    "email": "vojtikvokoun@gmail.com"
+  },
+  "record": {
+    "CNAME": "qikseek.pages.dev"
+  }
+}
